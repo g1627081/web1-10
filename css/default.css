@@ -4,10 +4,6 @@
   margin:0;
   padding:0;
 }
-body{
-  background-color:gray;
-  font-family: "Hannari";
-}
 
 header{
   padding:10px;
@@ -89,4 +85,9 @@ footer{
   body:after{
     content:"横長";
   }
+}
+
+body{
+  background-color:gray;
+  font-family: "Hannari";
 }
