@@ -8,6 +8,25 @@ body{
   background-color:gray;
   font-family: "Hannari";
 }
+
+header{
+  padding:10px;
+  text-align:center;
+  background-color:red;
+}
+section{
+  padding:10px;
+   background-color:orange;
+}
+aside{
+  padding:10px;
+   background-color:green;
+}
+footer{
+  padding:10px;
+   background-color:blue;
+  text-align:center;
+}
 @media screen and (max-width:640px){
   body{
     background-color:red;
