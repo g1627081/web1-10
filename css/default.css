@@ -25,7 +25,7 @@ footer{
 }
 @media screen and (min-width:641px){
   aside{
-    width:calc(50% - 20px);
+    width: calc(50% - 20px);
     float:left;
   }
   #side:after{
@@ -37,19 +37,19 @@ footer{
 
 @media screen and (min-width:1025px){
   #main{
-    max-width:1024px;
-    margin:auto;
+    max-width: 1024px;
+    margin: auto;
   }
   section{
-    width:calc(70% - 20px);
+    width: calc(70% - 20px);
     float:left;
   }
   #side{
-    width:calc(1024px -718px);
+    width: calc(1024px -718px);
     float:left;
   }
   aside{
-    width:calc(100%-20px);
+    width: calc(100%-20px);
   }
   #side:after{
     content:"";
